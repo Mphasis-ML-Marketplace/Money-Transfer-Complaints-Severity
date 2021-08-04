@@ -12,4 +12,4 @@ This is a Natural Language Processing (NLP) based text classification solution t
 
 
 ## Amazon Marketplace Link
-The product can be found [here]()
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-27tjdri562ufq)
